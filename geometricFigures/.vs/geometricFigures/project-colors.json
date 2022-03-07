@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "7bebf159-606f-4274-8e58-984eb59cfcc9": {
+      "ProjectGuid": "7bebf159-606f-4274-8e58-984eb59cfcc9",
+      "DisplayName": "geometricFigures",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Прочие файлы",
+      "ColorIndex": -1
+    },
+    "03a362a2-1fa3-45ba-87a8-73c106647321": {
+      "ProjectGuid": "03a362a2-1fa3-45ba-87a8-73c106647321",
+      "DisplayName": "geometricFigures.Tests",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
